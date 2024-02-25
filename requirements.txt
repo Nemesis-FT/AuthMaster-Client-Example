@@ -10,4 +10,4 @@ lazy-object-proxy == 1.7.1
 psycopg2-binary == 2.9.5
 bs4 == 0.0.1
 fastapi-oauth2
-social-core
+social-auth-core
